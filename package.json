@@ -4,6 +4,7 @@
   "type": "module",
   "main": "dist/monitorPolling.js",
   "scripts": {
+    "build": "tsc",
     "start": "node dist/monitorPolling.js"
   },
   "dependencies": {
